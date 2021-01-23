@@ -23,6 +23,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{E36272E0-4B3F-4EB3-A38F-0A9BE35EBB22}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{FFB8713D-EADA-4D8A-AA87-330A8FB36977}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{BA54C63F-7865-4F66-9CF4-4EE1FFD11A2A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{E36272E0-4B3F-4EB3-A38F-0A9BE35EBB22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E36272E0-4B3F-4EB3-A38F-0A9BE35EBB22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E36272E0-4B3F-4EB3-A38F-0A9BE35EBB22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFB8713D-EADA-4D8A-AA87-330A8FB36977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFB8713D-EADA-4D8A-AA87-330A8FB36977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFB8713D-EADA-4D8A-AA87-330A8FB36977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFB8713D-EADA-4D8A-AA87-330A8FB36977}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA54C63F-7865-4F66-9CF4-4EE1FFD11A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA54C63F-7865-4F66-9CF4-4EE1FFD11A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA54C63F-7865-4F66-9CF4-4EE1FFD11A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA54C63F-7865-4F66-9CF4-4EE1FFD11A2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

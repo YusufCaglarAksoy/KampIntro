@@ -5,7 +5,7 @@ using System.Text;
 namespace ClassMetotDemo
 {
     class MusteriManager
-    {
+    { 
         public void Ekle(Musteri musteri)
         {
             Console.WriteLine(musteri.Adi+" Adlı "+musteri.Id+" Numaralı Müşteri Eklendi");
