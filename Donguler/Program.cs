@@ -18,7 +18,6 @@ namespace Donguler
             Console.WriteLine(kurs4);
             Console.WriteLine(kurs5);
 
-            //array - dizi
 
             string[] kurslar = new string[] { kurs1, 
                 "Programlamaya başlangıç için temel kurs", 

@@ -7,10 +7,6 @@ namespace KampIntro
         static void Main(string[] args)
         {
 
-            //type safety - tip güvenliği
-            //Do not repeat yourself - Kendini tekrarlama
-            //değer tutucu, alias
-
             string kategoriEtiketi = "Kategoriler";
             int ogrenciSayisi = 32000;
             double faizOrani = 1.45;

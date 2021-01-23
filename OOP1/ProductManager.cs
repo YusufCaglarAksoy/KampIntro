@@ -6,8 +6,7 @@ namespace OOP1
 {
     class ProductManager
     {
-        //encapsulation
-        public void Add(Product product)//101
+        public void Add(Product product)
         {
             Console.WriteLine(product.ProductName + " eklendi.");
         }

@@ -24,7 +24,6 @@ namespace Metotlar
 
             Urun[] urunler = new Urun[] {urun1,urun2 };
 
-            //type-safe -- tip güvenli
             foreach (var urun in urunler)
             {                
                 Console.WriteLine(urun.Adi);
@@ -34,8 +33,7 @@ namespace Metotlar
             }
 
             Console.WriteLine("------------Metotlar---------------");
-            //instance - örnek
-            //encapsulation
+
 
             SepetManager sepetManager = new SepetManager();
             sepetManager.Ekle(urun1);
@@ -49,4 +47,3 @@ namespace Metotlar
 }
 
 
-//Dont repeat yourself - DRY - Clean Code - Best Practice

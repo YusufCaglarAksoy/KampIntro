@@ -4,7 +4,6 @@ using System.Text;
 
 namespace OOP1
 {
-    //snippet
     class Product
     {
         public int Id { get; set; }
